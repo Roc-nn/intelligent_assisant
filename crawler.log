@@ -1,0 +1,509 @@
+2025-01-14 12:35:14,431 - INFO - 成功访问页面：https://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/index.html
+2025-01-14 12:35:14,449 - INFO - 成功解析目录页，共找到 20 个子页面
+2025-01-14 12:35:14,449 - INFO - 正在处理第 1 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4653843.html
+2025-01-14 12:35:14,540 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4653843.html
+2025-01-14 12:35:14,557 - INFO - 成功解析子页面内容：标题 - 中华人民共和国科学技术普及法（2024年修订）
+2025-01-14 12:35:14,557 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:15,557 - INFO - 正在处理第 2 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4442059.html
+2025-01-14 12:35:15,629 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4442059.html
+2025-01-14 12:35:15,643 - INFO - 成功解析子页面内容：标题 - 关于开展涉及不平等对待企业法律法规政策清理工作的公告
+2025-01-14 12:35:15,643 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:16,644 - INFO - 正在处理第 3 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4442784.html
+2025-01-14 12:35:16,723 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4442784.html
+2025-01-14 12:35:16,744 - INFO - 成功解析子页面内容：标题 - 国家科学技术奖励条例（国务院令第782号第四次修订）
+2025-01-14 12:35:16,745 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:17,745 - INFO - 正在处理第 4 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4442783.html
+2025-01-14 12:35:17,845 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4442783.html
+2025-01-14 12:35:17,860 - INFO - 成功解析子页面内容：标题 - 科技部 财政部关于印发《国家重点研发计划管理暂行办法》的通知
+2025-01-14 12:35:17,861 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:18,861 - INFO - 正在处理第 5 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4383973.html
+2025-01-14 12:35:18,988 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4383973.html
+2025-01-14 12:35:19,007 - INFO - 成功解析子页面内容：标题 - 中华人民共和国档案法实施条例
+2025-01-14 12:35:19,007 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:20,008 - INFO - 正在处理第 6 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4263801.html
+2025-01-14 12:35:20,140 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4263801.html
+2025-01-14 12:35:20,160 - INFO - 成功解析子页面内容：标题 - 关于印发《科技伦理审查办法（试行）》的通知
+2025-01-14 12:35:20,161 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:21,161 - INFO - 正在处理第 7 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4191794.html
+2025-01-14 12:35:21,311 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4191794.html
+2025-01-14 12:35:21,333 - INFO - 成功解析子页面内容：标题 - 中华人民共和国科学技术部令第21号 人类遗传资源管理条例实施细则
+2025-01-14 12:35:21,334 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:22,334 - INFO - 正在处理第 8 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4110148.html
+2025-01-14 12:35:22,412 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4110148.html
+2025-01-14 12:35:22,426 - INFO - 成功解析子页面内容：标题 - 科技部关于印发《“十四五”国家高新技术产业开发区发展规划》的通知
+2025-01-14 12:35:22,427 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:23,428 - INFO - 正在处理第 9 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4110135.html
+2025-01-14 12:35:23,519 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_4110135.html
+2025-01-14 12:35:23,534 - INFO - 成功解析子页面内容：标题 - 中共中央办公厅 国务院办公厅印发《关于新时代进一步加强科学技术普及工作的意见》
+2025-01-14 12:35:23,536 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:24,536 - INFO - 正在处理第 10 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3985437.html
+2025-01-14 12:35:24,957 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3985437.html
+2025-01-14 12:35:24,976 - INFO - 成功解析子页面内容：标题 - 退税减税降费政策操作指南——科技型中小企业研发费用加计扣除政策
+2025-01-14 12:35:24,980 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:25,980 - INFO - 正在处理第 11 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3921225.html
+2025-01-14 12:35:26,133 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3921225.html
+2025-01-14 12:35:26,146 - INFO - 成功解析子页面内容：标题 - 关于进一步提高科技型中小企业研发费用税前加计扣除比例的公告
+2025-01-14 12:35:26,148 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:27,148 - INFO - 正在处理第 12 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3921221.html
+2025-01-14 12:35:27,254 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3921221.html
+2025-01-14 12:35:27,274 - INFO - 成功解析子页面内容：标题 - 中华人民共和国科学技术进步法(2021年修订)
+2025-01-14 12:35:27,276 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:28,276 - INFO - 正在处理第 13 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3591507.html
+2025-01-14 12:35:28,438 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3591507.html
+2025-01-14 12:35:28,465 - INFO - 成功解析子页面内容：标题 - 国务院办公厅政府信息与政务公开办公室关于印发《中华人民共和国政府信息公开工作年度报告格式》的通知
+2025-01-14 12:35:28,467 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:29,467 - INFO - 正在处理第 14 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3509106.html
+2025-01-14 12:35:29,564 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3509106.html
+2025-01-14 12:35:29,581 - INFO - 成功解析子页面内容：标题 - 国务院办公厅关于完善科技成果评价机制的指导意见
+2025-01-14 12:35:29,583 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:30,583 - INFO - 正在处理第 15 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3509091.html
+2025-01-14 12:35:30,676 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3509091.html
+2025-01-14 12:35:30,693 - INFO - 成功解析子页面内容：标题 - 科技部等十三部门印发《关于支持女性科技人才在科技创新中发挥更大作用的若干措施》的通知
+2025-01-14 12:35:30,695 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:31,695 - INFO - 正在处理第 16 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3286613.html
+2025-01-14 12:35:31,807 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3286613.html
+2025-01-14 12:35:31,823 - INFO - 成功解析子页面内容：标题 - 科技部 中国农业银行印发《关于加强现代农业科技金融服务创新支撑乡村振兴战略实施的意见》的通知
+2025-01-14 12:35:31,825 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:32,825 - INFO - 正在处理第 17 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3286611.html
+2025-01-14 12:35:33,238 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3286611.html
+2025-01-14 12:35:33,254 - INFO - 成功解析子页面内容：标题 - 关于“十四五”期间支持科普事业发展进口税收政策管理办法的通知
+2025-01-14 12:35:33,256 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:34,256 - INFO - 正在处理第 18 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3286619.html
+2025-01-14 12:35:34,329 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3286619.html
+2025-01-14 12:35:34,345 - INFO - 成功解析子页面内容：标题 - 科技部关于印发《国家高新技术产业开发区综合评价指标体系》的通知
+2025-01-14 12:35:34,348 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:35,348 - INFO - 正在处理第 19 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3586447.html
+2025-01-14 12:35:35,426 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3586447.html
+2025-01-14 12:35:35,450 - INFO - 成功解析子页面内容：标题 - 国务院办公厅关于印发2021年政务公开工作要点的通知
+2025-01-14 12:35:35,452 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:36,453 - INFO - 正在处理第 20 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3249189.html
+2025-01-14 12:35:36,536 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3249189.html
+2025-01-14 12:35:36,554 - INFO - 成功解析子页面内容：标题 - 科技部 财政部关于印发《国家科技成果转化引导基金创业投资子基金变更事项管理暂行办法》的通知
+2025-01-14 12:35:36,556 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:35:37,557 - INFO - 所有符合条件的页面数据已追加到文件：output/country.json
+2025-01-14 12:36:55,079 - INFO - 成功访问页面：https://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/index_2.html
+2025-01-14 12:36:55,098 - INFO - 成功解析目录页，共找到 20 个子页面
+2025-01-14 12:36:55,098 - INFO - 正在处理第 1 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3220378.html
+2025-01-14 12:36:55,227 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3220378.html
+2025-01-14 12:36:55,243 - INFO - 成功解析子页面内容：标题 - 科技部关于印发《科学技术活动评审工作中请托行为处理规定（试行）》的通知
+2025-01-14 12:36:55,246 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:36:56,246 - INFO - 正在处理第 2 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3220363.html
+2025-01-14 12:36:56,363 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3220363.html
+2025-01-14 12:36:56,382 - INFO - 成功解析子页面内容：标题 - 国家科学技术奖励条例（国务院令第731号第三次修订）
+2025-01-14 12:36:56,385 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:36:57,385 - INFO - 正在处理第 3 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3062852.html
+2025-01-14 12:36:57,493 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3062852.html
+2025-01-14 12:36:57,512 - INFO - 成功解析子页面内容：标题 - 国务院关于促进国家高新技术产业开发区高质量发展的若干意见
+2025-01-14 12:36:57,514 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:36:58,514 - INFO - 正在处理第 4 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3042579.html
+2025-01-14 12:36:58,614 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_3042579.html
+2025-01-14 12:36:58,630 - INFO - 成功解析子页面内容：标题 - 科技部办公厅关于加快推动国家科技成果转移转化示范区建设发展的通知
+2025-01-14 12:36:58,633 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:36:59,633 - INFO - 正在处理第 5 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2999240.html
+2025-01-14 12:36:59,751 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2999240.html
+2025-01-14 12:36:59,769 - INFO - 成功解析子页面内容：标题 - 政府工作报告（文字实录）
+2025-01-14 12:36:59,772 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:00,772 - INFO - 正在处理第 6 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2992679.html
+2025-01-14 12:37:00,951 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2992679.html
+2025-01-14 12:37:00,966 - INFO - 成功解析子页面内容：标题 - 科技部办公厅 财政部办公厅 教育部办公厅 中科院办公厅 工程院办公厅 自然科学基金委办公室关于印发《新形势下加强基础研究若干重点举措》的通知
+2025-01-14 12:37:00,969 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:01,969 - INFO - 正在处理第 7 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2992624.html
+2025-01-14 12:37:02,084 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2992624.html
+2025-01-14 12:37:02,101 - INFO - 成功解析子页面内容：标题 - 科技部印发《关于破除科技评价中“唯论文”不良导向的若干措施（试行）》的通知
+2025-01-14 12:37:02,104 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:03,104 - INFO - 正在处理第 8 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2992617.html
+2025-01-14 12:37:03,214 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2992617.html
+2025-01-14 12:37:03,231 - INFO - 成功解析子页面内容：标题 - 教育部 国家知识产权局 科技部关于提升高等学校专利质量促进转化运用的若干意见
+2025-01-14 12:37:03,234 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:04,234 - INFO - 正在处理第 9 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2864223.html
+2025-01-14 12:37:04,352 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2864223.html
+2025-01-14 12:37:04,365 - INFO - 成功解析子页面内容：标题 - 财政部 科技部关于印发《中央财政科技计划（专项、基金等）后补助管理办法》的通知
+2025-01-14 12:37:04,370 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:05,370 - INFO - 正在处理第 10 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691520.html
+2025-01-14 12:37:05,727 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691520.html
+2025-01-14 12:37:05,741 - INFO - 成功解析子页面内容：标题 - 关于印发《中央引导地方科技发展资金管理办法》的通知
+2025-01-14 12:37:05,745 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:06,745 - INFO - 正在处理第 11 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691521.html
+2025-01-14 12:37:06,840 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691521.html
+2025-01-14 12:37:06,854 - INFO - 成功解析子页面内容：标题 - 关于进一步加大授权力度 促进科技成果转化的通知
+2025-01-14 12:37:06,858 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:07,858 - INFO - 正在处理第 12 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691518.html
+2025-01-14 12:37:07,989 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691518.html
+2025-01-14 12:37:08,012 - INFO - 成功解析子页面内容：标题 - 关于印发《科研诚信案件调查处理规则（试行）》的通知
+2025-01-14 12:37:08,015 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:09,015 - INFO - 正在处理第 13 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691519.html
+2025-01-14 12:37:09,149 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691519.html
+2025-01-14 12:37:09,166 - INFO - 成功解析子页面内容：标题 - 科技部印发《关于促进新型研发机构发展的指导意见》的通知
+2025-01-14 12:37:09,169 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:10,170 - INFO - 正在处理第 14 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691517.html
+2025-01-14 12:37:10,271 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691517.html
+2025-01-14 12:37:10,287 - INFO - 成功解析子页面内容：标题 - 科技部等六部门印发《关于促进文化和科技深度融合的指导意见》的通知
+2025-01-14 12:37:10,291 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:11,291 - INFO - 正在处理第 15 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691516.html
+2025-01-14 12:37:11,419 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691516.html
+2025-01-14 12:37:11,436 - INFO - 成功解析子页面内容：标题 - 科技部印发《关于新时期支持科技型中小企业加快创新发展的若干政策措施》的通知
+2025-01-14 12:37:11,440 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:12,440 - INFO - 正在处理第 16 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691515.html
+2025-01-14 12:37:12,549 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691515.html
+2025-01-14 12:37:12,573 - INFO - 成功解析子页面内容：标题 - 中华人民共和国人类遗传资源管理条例
+2025-01-14 12:37:12,581 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:13,581 - INFO - 正在处理第 17 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691514.html
+2025-01-14 12:37:13,670 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691514.html
+2025-01-14 12:37:13,685 - INFO - 成功解析子页面内容：标题 - 科技部 教育部关于印发《国家大学科技园管理办法》的通知
+2025-01-14 12:37:13,689 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:14,690 - INFO - 正在处理第 18 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691513.html
+2025-01-14 12:37:14,820 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691513.html
+2025-01-14 12:37:14,833 - INFO - 成功解析子页面内容：标题 - 中华人民共和国政府信息公开条例
+2025-01-14 12:37:14,838 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:15,838 - INFO - 正在处理第 19 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691512.html
+2025-01-14 12:37:15,928 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691512.html
+2025-01-14 12:37:15,946 - INFO - 成功解析子页面内容：标题 - 科技部 教育部印发《关于促进国家大学科技园创新发展的指导意见》的通知
+2025-01-14 12:37:15,951 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:16,951 - INFO - 正在处理第 20 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691511.html
+2025-01-14 12:37:17,088 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691511.html
+2025-01-14 12:37:17,103 - INFO - 成功解析子页面内容：标题 - 科技部 财政部关于进一步优化国家重点研发计划项目和资金管理的通知
+2025-01-14 12:37:17,108 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:37:18,108 - INFO - 所有符合条件的页面数据已追加到文件：output/country.json
+2025-01-14 12:38:09,183 - INFO - 成功访问页面：https://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/index_3.html
+2025-01-14 12:38:09,201 - INFO - 成功解析目录页，共找到 20 个子页面
+2025-01-14 12:38:09,201 - INFO - 正在处理第 1 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691510.html
+2025-01-14 12:38:09,296 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691510.html
+2025-01-14 12:38:09,309 - INFO - 成功解析子页面内容：标题 - 科技部关于印发《创新驱动乡村振兴发展专项规划（2018-2022年）》的通知
+2025-01-14 12:38:09,314 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:10,314 - INFO - 正在处理第 2 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691509.html
+2025-01-14 12:38:10,456 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691509.html
+2025-01-14 12:38:10,471 - INFO - 成功解析子页面内容：标题 - 中共科学技术部党组关于以习近平新时代中国特色社会主义思想为指导 凝心聚力 决胜进入创新型国家行列的意见
+2025-01-14 12:38:10,476 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:11,476 - INFO - 正在处理第 3 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691507.html
+2025-01-14 12:38:11,569 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691507.html
+2025-01-14 12:38:11,582 - INFO - 成功解析子页面内容：标题 - 科技部 财政部关于调整国家科学技术奖奖金标准的通知
+2025-01-14 12:38:11,588 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:12,588 - INFO - 正在处理第 4 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691506.html
+2025-01-14 12:38:12,704 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691506.html
+2025-01-14 12:38:12,715 - INFO - 成功解析子页面内容：标题 - 科技部办公厅关于人类遗传资源行政审批延长补报期限有关事项的通知
+2025-01-14 12:38:12,722 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:13,722 - INFO - 正在处理第 5 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691508.html
+2025-01-14 12:38:13,796 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691508.html
+2025-01-14 12:38:13,811 - INFO - 成功解析子页面内容：标题 - 关于印发《科学技术部科技统计工作管理办法》的通知
+2025-01-14 12:38:13,817 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:14,817 - INFO - 正在处理第 6 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691505.html
+2025-01-14 12:38:14,920 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691505.html
+2025-01-14 12:38:14,934 - INFO - 成功解析子页面内容：标题 - 关于科技企业孵化器 大学科技园和众创空间税收政策的通知
+2025-01-14 12:38:14,939 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:15,939 - INFO - 正在处理第 7 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691504.html
+2025-01-14 12:38:16,026 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691504.html
+2025-01-14 12:38:16,041 - INFO - 成功解析子页面内容：标题 - 关于扩大国有科技型企业股权和分红激励暂行办法实施范围等有关事项的通知
+2025-01-14 12:38:16,047 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:17,047 - INFO - 正在处理第 8 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691503.html
+2025-01-14 12:38:17,139 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691503.html
+2025-01-14 12:38:17,154 - INFO - 成功解析子页面内容：标题 - 科技部 国家保密局关于印发《国家科学技术秘密持有单位管理办法》的通知
+2025-01-14 12:38:17,159 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:18,160 - INFO - 正在处理第 9 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691502.html
+2025-01-14 12:38:18,258 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691502.html
+2025-01-14 12:38:18,277 - INFO - 成功解析子页面内容：标题 - 科技部关于印发《国家科学技术秘密定密管理办法》的通知
+2025-01-14 12:38:18,282 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:19,282 - INFO - 正在处理第 10 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691501.html
+2025-01-14 12:38:19,388 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691501.html
+2025-01-14 12:38:19,401 - INFO - 成功解析子页面内容：标题 - 关于企业委托境外研究开发费用税前加计扣除有关政策问题的通知
+2025-01-14 12:38:19,407 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:20,407 - INFO - 正在处理第 11 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691500.html
+2025-01-14 12:38:20,528 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691500.html
+2025-01-14 12:38:20,544 - INFO - 成功解析子页面内容：标题 - 中共中央办公厅 国务院办公厅印发《关于进一步加强科研诚信建设的若干意见》
+2025-01-14 12:38:20,550 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:21,550 - INFO - 正在处理第 12 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691499.html
+2025-01-14 12:38:21,638 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691499.html
+2025-01-14 12:38:21,653 - INFO - 成功解析子页面内容：标题 - 科技部关于印发《关于技术市场发展的若干意见》的通知
+2025-01-14 12:38:21,659 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:22,659 - INFO - 正在处理第 13 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691498.html
+2025-01-14 12:38:22,762 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691498.html
+2025-01-14 12:38:22,778 - INFO - 成功解析子页面内容：标题 - 科技部办公厅、中宣部文改办关于开展2018年国家文化和科技融合示范基地申报工作的通知
+2025-01-14 12:38:22,784 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:23,785 - INFO - 正在处理第 14 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691496.html
+2025-01-14 12:38:23,903 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691496.html
+2025-01-14 12:38:23,919 - INFO - 成功解析子页面内容：标题 - 科技部 国资委印发《关于进一步推进中央企业创新发展的意见》的通知
+2025-01-14 12:38:23,925 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:24,926 - INFO - 正在处理第 15 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691495.html
+2025-01-14 12:38:25,001 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691495.html
+2025-01-14 12:38:25,013 - INFO - 成功解析子页面内容：标题 - 科技部 国家发展改革委关于支持新一批城市开展创新型城市建设的函
+2025-01-14 12:38:25,021 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:26,021 - INFO - 正在处理第 16 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691494.html
+2025-01-14 12:38:26,108 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691494.html
+2025-01-14 12:38:26,122 - INFO - 成功解析子页面内容：标题 - 科技部 中宣部 中央网信办 文化和旅游部 广播电视总局关于印发《国家文化和科技融合示范基地认定管理办法（试行）》的通知
+2025-01-14 12:38:26,129 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:27,129 - INFO - 正在处理第 17 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691482.html
+2025-01-14 12:38:27,527 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691482.html
+2025-01-14 12:38:27,544 - INFO - 成功解析子页面内容：标题 - 中华人民共和国监察法（2018年3月20日第十三届全国人民代表大会第一次会议通过）
+2025-01-14 12:38:27,550 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:28,551 - INFO - 正在处理第 18 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691493.html
+2025-01-14 12:38:28,664 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691493.html
+2025-01-14 12:38:28,682 - INFO - 成功解析子页面内容：标题 - 国务院办公厅关于印发科学数据管理办法的通知
+2025-01-14 12:38:28,689 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:29,689 - INFO - 正在处理第 19 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691492.html
+2025-01-14 12:38:29,809 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691492.html
+2025-01-14 12:38:29,826 - INFO - 成功解析子页面内容：标题 - 国务院关于印发积极牵头组织国际大科学计划和大科学工程方案的通知
+2025-01-14 12:38:29,832 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:30,833 - INFO - 正在处理第 20 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691490.html
+2025-01-14 12:38:30,914 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691490.html
+2025-01-14 12:38:30,927 - INFO - 成功解析子页面内容：标题 - 科技部 财政部关于印发《国家科技资源共享服务平台管理办法》的通知
+2025-01-14 12:38:30,934 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:38:31,935 - INFO - 所有符合条件的页面数据已追加到文件：output/country.json
+2025-01-14 12:39:04,340 - INFO - 成功访问页面：https://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/index_4.html
+2025-01-14 12:39:04,357 - INFO - 成功解析目录页，共找到 20 个子页面
+2025-01-14 12:39:04,357 - INFO - 正在处理第 1 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691489.html
+2025-01-14 12:39:04,530 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691489.html
+2025-01-14 12:39:04,546 - INFO - 成功解析子页面内容：标题 - 科技部 财政部关于印发《关于鼓励香港特别行政区、澳门特别行政区高等院校和科研机构参与中央财政科技计划（专项、基金等）组织实施的若干规定（试行）》的通知
+2025-01-14 12:39:04,553 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:05,553 - INFO - 正在处理第 2 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691487.html
+2025-01-14 12:39:05,635 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691487.html
+2025-01-14 12:39:05,650 - INFO - 成功解析子页面内容：标题 - 科技部 农业部 水利部 国家林业局 中国科学院 中国农业银行关于印发《国家农业科技园区管理办法》的通知
+2025-01-14 12:39:05,657 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:06,658 - INFO - 正在处理第 3 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691486.html
+2025-01-14 12:39:06,757 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691486.html
+2025-01-14 12:39:06,775 - INFO - 成功解析子页面内容：标题 - 科技部 农业部 水利部 国家林业局 中国科学院 中国农业银行关于印发《国家农业科技园区发展规划（2018—2025年）》的通知
+2025-01-14 12:39:06,783 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:07,783 - INFO - 正在处理第 4 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691485.html
+2025-01-14 12:39:07,915 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691485.html
+2025-01-14 12:39:07,930 - INFO - 成功解析子页面内容：标题 - 国务院办公厅关于推进农业高新技术产业示范区建设发展的指导意见
+2025-01-14 12:39:07,938 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:08,938 - INFO - 正在处理第 5 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691484.html
+2025-01-14 12:39:09,041 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691484.html
+2025-01-14 12:39:09,054 - INFO - 成功解析子页面内容：标题 - 科技部关于支持建设国家新能源汽车技术创新中心的函
+2025-01-14 12:39:09,061 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:10,061 - INFO - 正在处理第 6 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691481.html
+2025-01-14 12:39:10,137 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691481.html
+2025-01-14 12:39:10,152 - INFO - 成功解析子页面内容：标题 - 科技部国家卫生计生委军委后勤保障部食品药品监管总局关于印发《国家临床医学研究中心五年（2017-2021年）发展规划》等3份文件的通知
+2025-01-14 12:39:10,159 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:11,159 - INFO - 正在处理第 7 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691479.html
+2025-01-14 12:39:11,245 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691479.html
+2025-01-14 12:39:11,258 - INFO - 成功解析子页面内容：标题 - 科技部关于印发《“十三五”公共安全科技创新专项规划》的通知
+2025-01-14 12:39:11,265 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:12,265 - INFO - 正在处理第 8 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691478.html
+2025-01-14 12:39:12,375 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691478.html
+2025-01-14 12:39:12,388 - INFO - 成功解析子页面内容：标题 - 科技部财政部国家发展改革委关于印发《国家科技创新基地优化整合方案》的通知
+2025-01-14 12:39:12,397 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:13,397 - INFO - 正在处理第 9 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691477.html
+2025-01-14 12:39:14,750 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691477.html
+2025-01-14 12:39:14,769 - INFO - 成功解析子页面内容：标题 - 国务院关于强化实施创新驱动发展战略进一步推进大众创业万众创新深入发展的意见
+2025-01-14 12:39:14,776 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:15,777 - INFO - 正在处理第 10 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691476.html
+2025-01-14 12:39:15,977 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691476.html
+2025-01-14 12:39:15,993 - INFO - 成功解析子页面内容：标题 - 科技部关于印发《生物技术研究开发安全管理办法》的通知
+2025-01-14 12:39:15,999 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:17,000 - INFO - 正在处理第 11 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691475.html
+2025-01-14 12:39:17,150 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691475.html
+2025-01-14 12:39:17,166 - INFO - 成功解析子页面内容：标题 - 科技部关于进一步鼓励和规范社会力量设立科学技术奖的指导意见
+2025-01-14 12:39:17,174 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:18,175 - INFO - 正在处理第 12 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691474.html
+2025-01-14 12:39:18,267 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691474.html
+2025-01-14 12:39:18,281 - INFO - 成功解析子页面内容：标题 - 科技部办公厅关于印发《落实<中长期青年发展规划（2016-2025年）>实施方案》的通知
+2025-01-14 12:39:18,289 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:19,289 - INFO - 正在处理第 13 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691473.html
+2025-01-14 12:39:19,432 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691473.html
+2025-01-14 12:39:19,449 - INFO - 成功解析子页面内容：标题 - 科技部财政部关于印发《国家重点研发计划管理暂行办法》的通知
+2025-01-14 12:39:19,459 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:20,459 - INFO - 正在处理第 14 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691472.html
+2025-01-14 12:39:20,597 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691472.html
+2025-01-14 12:39:20,616 - INFO - 成功解析子页面内容：标题 - 科技部发展改革委财政部关于印发《国家科技重大专项（民口）管理规定》的通知
+2025-01-14 12:39:20,624 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:21,624 - INFO - 正在处理第 15 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691471.html
+2025-01-14 12:39:21,722 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691471.html
+2025-01-14 12:39:21,738 - INFO - 成功解析子页面内容：标题 - 国务院办公厅印发关于深化科技奖励制度改革方案的通知
+2025-01-14 12:39:21,747 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:22,748 - INFO - 正在处理第 16 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691470.html
+2025-01-14 12:39:22,857 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691470.html
+2025-01-14 12:39:22,874 - INFO - 成功解析子页面内容：标题 - 国务院办公厅关于建设第二批大众创业万众创新示范基地的实施意见
+2025-01-14 12:39:22,883 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:23,883 - INFO - 正在处理第 17 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691469.html
+2025-01-14 12:39:24,014 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691469.html
+2025-01-14 12:39:24,029 - INFO - 成功解析子页面内容：标题 - 科技部关于印发“十三五”技术市场发展专项规划的通知
+2025-01-14 12:39:24,039 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:25,040 - INFO - 正在处理第 18 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691468.html
+2025-01-14 12:39:25,171 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691468.html
+2025-01-14 12:39:25,192 - INFO - 成功解析子页面内容：标题 - 科技部发展改革委工业和信息化部国家卫生计生委体育总局食品药品监管总局关于印发《“十三五”健康产业科技创新专项规划》的通知
+2025-01-14 12:39:25,200 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:26,201 - INFO - 正在处理第 19 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691467.html
+2025-01-14 12:39:26,396 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691467.html
+2025-01-14 12:39:26,415 - INFO - 成功解析子页面内容：标题 - 科技部国家卫生计生委体育总局食品药品监管总局国家中医药管理局中央军委后勤保障部关于印发《“十三五”卫生与健康科技创新专项规划》的通知
+2025-01-14 12:39:26,425 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:27,425 - INFO - 正在处理第 20 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691465.html
+2025-01-14 12:39:27,612 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691465.html
+2025-01-14 12:39:27,632 - INFO - 成功解析子页面内容：标题 - 科技部国家中医药管理局关于印发《“十三五”中医药科技创新专项规划》的通知
+2025-01-14 12:39:27,642 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:39:28,642 - INFO - 所有符合条件的页面数据已追加到文件：output/country.json
+2025-01-14 12:40:28,993 - INFO - 成功访问页面：https://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/index_5.html
+2025-01-14 12:40:29,012 - INFO - 成功解析目录页，共找到 20 个子页面
+2025-01-14 12:40:29,012 - INFO - 正在处理第 1 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691464.html
+2025-01-14 12:40:29,468 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691464.html
+2025-01-14 12:40:29,485 - INFO - 成功解析子页面内容：标题 - 科技部办公厅关于印发《“十三五”医疗器械科技创新专项规划》的通知
+2025-01-14 12:40:29,494 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:30,495 - INFO - 正在处理第 2 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691463.html
+2025-01-14 12:40:30,640 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691463.html
+2025-01-14 12:40:30,655 - INFO - 成功解析子页面内容：标题 - 国务院办公厅印发《关于深化科技奖励制度改革的方案》
+2025-01-14 12:40:30,666 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:31,666 - INFO - 正在处理第 3 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691462.html
+2025-01-14 12:40:31,749 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691462.html
+2025-01-14 12:40:31,765 - INFO - 成功解析子页面内容：标题 - 科技部关于印发《“十三五”食品科技创新专项规划》的通知
+2025-01-14 12:40:31,776 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:32,776 - INFO - 正在处理第 4 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691459.html
+2025-01-14 12:40:32,909 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691459.html
+2025-01-14 12:40:32,923 - INFO - 成功解析子页面内容：标题 - 国务院办公厅印发《关于县域创新驱动发展的若干意见》
+2025-01-14 12:40:32,935 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:33,935 - INFO - 正在处理第 5 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691457.html
+2025-01-14 12:40:34,043 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691457.html
+2025-01-14 12:40:34,057 - INFO - 成功解析子页面内容：标题 - 关于提高科技型中小企业研究开发费用税前加计扣除比例的通知
+2025-01-14 12:40:34,069 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:35,069 - INFO - 正在处理第 6 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691456.html
+2025-01-14 12:40:35,419 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691456.html
+2025-01-14 12:40:35,435 - INFO - 成功解析子页面内容：标题 - 关于创业投资企业和天使投资个人有关税收试点政策的通知
+2025-01-14 12:40:35,446 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:36,446 - INFO - 正在处理第 7 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691455.html
+2025-01-14 12:40:36,554 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691455.html
+2025-01-14 12:40:36,570 - INFO - 成功解析子页面内容：标题 - 关于实行以增加知识价值为导向分配政策的若干意见
+2025-01-14 12:40:36,582 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:37,582 - INFO - 正在处理第 8 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691454.html
+2025-01-14 12:40:37,712 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691454.html
+2025-01-14 12:40:37,729 - INFO - 成功解析子页面内容：标题 - 人力资源社会保障部关于支持和鼓励事业单位专业技术人员创新创业的指导意见
+2025-01-14 12:40:37,741 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:38,741 - INFO - 正在处理第 9 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691453.html
+2025-01-14 12:40:38,855 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691453.html
+2025-01-14 12:40:38,870 - INFO - 成功解析子页面内容：标题 - 财政部科技部教育部发展改革委关于进一步做好中央财政科研项目资金管理等政策贯彻落实工作的通知
+2025-01-14 12:40:38,882 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:39,882 - INFO - 正在处理第 10 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691452.html
+2025-01-14 12:40:39,980 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691452.html
+2025-01-14 12:40:39,994 - INFO - 成功解析子页面内容：标题 - 财政部科技部关于印发《国家重点研发计划资金管理办法》的通知
+2025-01-14 12:40:40,006 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:41,007 - INFO - 正在处理第 11 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691451.html
+2025-01-14 12:40:41,118 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691451.html
+2025-01-14 12:40:41,134 - INFO - 成功解析子页面内容：标题 - 工业和信息化部发展改革委科技部财政部关于印发《促进汽车动力电池产业发展行动方案》的通知
+2025-01-14 12:40:41,145 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:42,145 - INFO - 正在处理第 12 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691449.html
+2025-01-14 12:40:42,242 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691449.html
+2025-01-14 12:40:42,258 - INFO - 成功解析子页面内容：标题 - 科技部发展改革委教育部等关于印发《国家科技计划（专项、基金等）严重失信行为记录暂行规定》的通知
+2025-01-14 12:40:42,271 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:43,271 - INFO - 正在处理第 13 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691448.html
+2025-01-14 12:40:43,414 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691448.html
+2025-01-14 12:40:43,433 - INFO - 成功解析子页面内容：标题 - 农业部科技部财政部教育部人力资源和社会保障部关于扩大种业人才发展和科研成果权益改革试点的指导意见
+2025-01-14 12:40:43,445 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:44,445 - INFO - 正在处理第 14 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691447.html
+2025-01-14 12:40:44,542 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691447.html
+2025-01-14 12:40:44,557 - INFO - 成功解析子页面内容：标题 - 财政部国家税务总局关于高新技术企业职工教育经费税前扣除政策的通知
+2025-01-14 12:40:44,569 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:45,569 - INFO - 正在处理第 15 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691446.html
+2025-01-14 12:40:45,662 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691446.html
+2025-01-14 12:40:45,679 - INFO - 成功解析子页面内容：标题 - 科技部办公厅关于印发《科技部落实国家科技计划管理监督主体责任实施方案》的通知
+2025-01-14 12:40:45,691 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:46,691 - INFO - 正在处理第 16 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691445.html
+2025-01-14 12:40:46,793 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691445.html
+2025-01-14 12:40:46,809 - INFO - 成功解析子页面内容：标题 - 教育部科技部关于加强高等学校科技成果转移转化工作的若干意见
+2025-01-14 12:40:46,821 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:47,821 - INFO - 正在处理第 17 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691444.html
+2025-01-14 12:40:47,934 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691444.html
+2025-01-14 12:40:47,950 - INFO - 成功解析子页面内容：标题 - 科技部关于印发《科技监督和评估体系建设工作方案》的通知
+2025-01-14 12:40:47,964 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:48,964 - INFO - 正在处理第 18 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691442.html
+2025-01-14 12:40:49,061 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691442.html
+2025-01-14 12:40:49,082 - INFO - 成功解析子页面内容：标题 - 科技部财政部关于印发《中央财政科技计划（专项、基金等）监督工作暂行规定》的通知
+2025-01-14 12:40:49,095 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:50,095 - INFO - 正在处理第 19 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691441.html
+2025-01-14 12:40:50,444 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691441.html
+2025-01-14 12:40:50,457 - INFO - 成功解析子页面内容：标题 - 财政部海关总署国家税务总局关于鼓励科普事业发展进口税收政策的通知
+2025-01-14 12:40:50,470 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:51,470 - INFO - 正在处理第 20 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691440.html
+2025-01-14 12:40:51,559 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691440.html
+2025-01-14 12:40:51,574 - INFO - 成功解析子页面内容：标题 - 财政部国家税务总局海关总署关于公布进口科学研究、科技开发和教学用品免税清单的通知
+2025-01-14 12:40:51,586 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:40:52,586 - INFO - 所有符合条件的页面数据已追加到文件：output/country.json
+2025-01-14 12:41:13,434 - INFO - 成功访问页面：https://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/index_6.html
+2025-01-14 12:41:13,450 - INFO - 成功解析目录页，共找到 20 个子页面
+2025-01-14 12:41:13,450 - INFO - 正在处理第 1 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691439.html
+2025-01-14 12:41:13,541 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691439.html
+2025-01-14 12:41:13,554 - INFO - 成功解析子页面内容：标题 - 财政部国家税务总局关于科技企业孵化器税收政策的通知
+2025-01-14 12:41:13,567 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:14,568 - INFO - 正在处理第 2 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691438.html
+2025-01-14 12:41:14,707 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691438.html
+2025-01-14 12:41:14,722 - INFO - 成功解析子页面内容：标题 - 财政部国家税务总局关于国家大学科技园税收政策的通知
+2025-01-14 12:41:14,735 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:15,735 - INFO - 正在处理第 3 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691437.html
+2025-01-14 12:41:15,851 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691437.html
+2025-01-14 12:41:15,870 - INFO - 成功解析子页面内容：标题 - 科研事业单位领导人员管理暂行办法
+2025-01-14 12:41:15,884 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:16,884 - INFO - 正在处理第 4 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691436.html
+2025-01-14 12:41:17,037 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691436.html
+2025-01-14 12:41:17,056 - INFO - 成功解析子页面内容：标题 - 中共中央国务院关于深化体制机制改革加快实施创新驱动发展战略的若干意见
+2025-01-14 12:41:17,069 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:18,069 - INFO - 正在处理第 5 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691435.html
+2025-01-14 12:41:18,178 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691435.html
+2025-01-14 12:41:18,194 - INFO - 成功解析子页面内容：标题 - 财政部国家税务总局关于将国家自主创新示范区有关税收试点政策推广到全国范围实施的通知
+2025-01-14 12:41:18,206 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:19,206 - INFO - 正在处理第 6 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691434.html
+2025-01-14 12:41:19,323 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691434.html
+2025-01-14 12:41:19,340 - INFO - 成功解析子页面内容：标题 - 财政部国家税务总局关于推广中关村国家自主创新示范区税收试点政策有关问题的通知
+2025-01-14 12:41:19,354 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:20,354 - INFO - 正在处理第 7 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691433.html
+2025-01-14 12:41:20,477 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691433.html
+2025-01-14 12:41:20,495 - INFO - 成功解析子页面内容：标题 - 财政部科技部国资委关于印发《国有科技型企业股权和分红激励暂行办法》的通知
+2025-01-14 12:41:20,509 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:21,510 - INFO - 正在处理第 8 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691432.html
+2025-01-14 12:41:21,631 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691432.html
+2025-01-14 12:41:21,650 - INFO - 成功解析子页面内容：标题 - 财政部国家税务总局关于完善股权激励和技术入股有关所得税政策的通知
+2025-01-14 12:41:21,663 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:22,663 - INFO - 正在处理第 9 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691431.html
+2025-01-14 12:41:22,774 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691431.html
+2025-01-14 12:41:22,790 - INFO - 成功解析子页面内容：标题 - 财政部国家税务总局科技部关于完善研究开发费用税前加计扣除政策的通知
+2025-01-14 12:41:22,804 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:23,804 - INFO - 正在处理第 10 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691429.html
+2025-01-14 12:41:23,916 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691429.html
+2025-01-14 12:41:23,931 - INFO - 成功解析子页面内容：标题 - 国家科学技术奖励条例
+2025-01-14 12:41:23,945 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:24,945 - INFO - 正在处理第 11 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691428.html
+2025-01-14 12:41:25,058 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691428.html
+2025-01-14 12:41:25,073 - INFO - 成功解析子页面内容：标题 - 科技部关于印发《中央财政科技计划（专项、基金等）科技报告管理暂行办法》的通知
+2025-01-14 12:41:25,086 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:26,087 - INFO - 正在处理第 12 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691427.html
+2025-01-14 12:41:26,494 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691427.html
+2025-01-14 12:41:26,508 - INFO - 成功解析子页面内容：标题 - 中共中央办公厅国务院办公厅印发《关于进一步完善中央财政科研项目资金管理等政策的若干意见》
+2025-01-14 12:41:26,522 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:27,522 - INFO - 正在处理第 13 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691426.html
+2025-01-14 12:41:27,660 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691426.html
+2025-01-14 12:41:27,688 - INFO - 成功解析子页面内容：标题 - 科学技术部令第17号《科技部关于对部分规章和文件予以废止的决定》
+2025-01-14 12:41:27,703 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:28,703 - INFO - 正在处理第 14 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691425.html
+2025-01-14 12:41:28,818 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691425.html
+2025-01-14 12:41:28,835 - INFO - 成功解析子页面内容：标题 - 国务院办公厅关于印发促进科技成果转移转化行动方案的通知
+2025-01-14 12:41:28,850 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:29,850 - INFO - 正在处理第 15 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691424.html
+2025-01-14 12:41:29,956 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691424.html
+2025-01-14 12:41:29,970 - INFO - 成功解析子页面内容：标题 - 科技部关于印发《中央财政科技计划（专项、基金等）项目管理专业机构管理暂行规定》的通知
+2025-01-14 12:41:29,985 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:30,985 - INFO - 正在处理第 16 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691423.html
+2025-01-14 12:41:31,090 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691423.html
+2025-01-14 12:41:31,107 - INFO - 成功解析子页面内容：标题 - 关于印发《国有科技型企业股权和分红激励暂行办法》的通知
+2025-01-14 12:41:31,122 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:32,123 - INFO - 正在处理第 17 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691422.html
+2025-01-14 12:41:32,231 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691422.html
+2025-01-14 12:41:32,246 - INFO - 成功解析子页面内容：标题 - 国务院关于印发实施《中华人民共和国促进科技成果转化法》若干规定的通知
+2025-01-14 12:41:32,261 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:33,261 - INFO - 正在处理第 18 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691421.html
+2025-01-14 12:41:33,389 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691421.html
+2025-01-14 12:41:33,406 - INFO - 成功解析子页面内容：标题 - 关于完善研究开发费用税前加计扣除政策的通知
+2025-01-14 12:41:33,421 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:34,421 - INFO - 正在处理第 19 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691420.html
+2025-01-14 12:41:34,515 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691420.html
+2025-01-14 12:41:34,532 - INFO - 成功解析子页面内容：标题 - 中华人民共和国促进科技成果转化法（2015年修订）
+2025-01-14 12:41:34,547 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:35,547 - INFO - 正在处理第 20 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691419.html
+2025-01-14 12:41:35,674 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691419.html
+2025-01-14 12:41:35,690 - INFO - 成功解析子页面内容：标题 - 国家科学技术奖评审行为准则与督查暂行规定
+2025-01-14 12:41:35,706 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:36,707 - INFO - 所有符合条件的页面数据已追加到文件：output/country.json
+2025-01-14 12:41:57,159 - INFO - 成功访问页面：https://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/index_7.html
+2025-01-14 12:41:57,175 - INFO - 成功解析目录页，共找到 2 个子页面
+2025-01-14 12:41:57,175 - INFO - 正在处理第 1 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691418.html
+2025-01-14 12:41:57,285 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691418.html
+2025-01-14 12:41:57,302 - INFO - 成功解析子页面内容：标题 - 国家科学技术奖励评审工作纪律
+2025-01-14 12:41:57,317 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:58,317 - INFO - 正在处理第 2 个页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691417.html
+2025-01-14 12:41:58,478 - INFO - 成功访问页面：http://gdstc.gd.gov.cn/zwgk_n/zcfg/gjzc/content/post_2691417.html
+2025-01-14 12:41:58,495 - INFO - 成功解析子页面内容：标题 - 国务院关于废止和修改部分行政法规的决定
+2025-01-14 12:41:58,509 - INFO - 成功将数据追加到文件：output/country.json
+2025-01-14 12:41:59,510 - INFO - 所有符合条件的页面数据已追加到文件：output/country.json
