@@ -3,3 +3,5 @@ elasticsearch
 text2vec
 zhipuai
 urllib3
+requests
+beautifulsoup4
