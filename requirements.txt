@@ -1,0 +1,5 @@
+gradio
+elasticsearch
+text2vec
+zhipuai
+urllib3
