@@ -8,7 +8,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # 替换你的用户名和密码
 es = Elasticsearch(
     "https://localhost:9200",
-    basic_auth=("elastic", "xvVyiK=ox15Tcbv8m28t"),
+    basic_auth=("elastic", "elastic_password"),  # 替换为你的认证信息
     verify_certs=False  # 临时忽略 SSL 验证
 )
 

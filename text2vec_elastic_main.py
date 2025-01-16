@@ -22,7 +22,7 @@ class ChatbotWithRAG:
         # 初始化 Elasticsearch 客户端
         self.es = Elasticsearch(
             "https://localhost:9200",
-            basic_auth=("elastic", "verify_code"),  # 替换为你的认证信息
+            basic_auth=("elastic", "elastic_password"),  # 替换为你的认证信息
             verify_certs=False  # 忽略证书验证
         )
         if not self.es.ping():
