@@ -1,7 +1,10 @@
 # Intelligent Policy Assistant
 
 ## 🌟 Introduction
-This project implements an intelligent policy assistant system based on AI, providing accurate and professional policy answers. It integrates ZhipuAI for response generation, Elasticsearch for document retrieval, and text2vec for embedding-based search.
+An AI-based policy assistant integrating:
+- **Elasticsearch** for document retrieval
+- **ZhipuAI** for response generation
+- **text2vec** for embedding-based search
 
 ## 🛠️ Prerequisites
 - **Elasticsearch**: Make sure Elasticsearch is installed and running ([Official Documentation](https://www.elastic.co/guide/en/elasticsearch/reference/index.html))
